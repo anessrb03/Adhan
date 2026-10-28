@@ -1,0 +1,8 @@
+{
+ "appId": "dz.adhan.mawaqit",
+ "appName": "مواقيت الصلاة",
+ "webDir": "www",
+ "android": {
+  "allowMixedContent": false
+ }
+}
